@@ -4,7 +4,11 @@ ARRAY is a system for silicon sensor testing. It consisting of two Printed Circu
 * an active 512-to-1 switching matrix,
 * a passive probe card to contact the sensor.
 
-
+All design files are open source:
+* The hardware design files for both PCBs can be found [here](https://ohwr.org/project/array/array-hardware)
+* The firmware can be found [here](https://ohwr.org/project/array/array-firmware)
+* A python interface can be found [here](https://ohwr.org/project/array/array-interface-python)
+* A LabVIEW interface can be found [here](https://ohwr.org/project/array/array-interface-labview)
 
 
 ## Hardware
