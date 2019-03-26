@@ -3,6 +3,7 @@
 ARRAY is a system for silicon sensor testing. It consisting of two Printed Circuit Boards:
 * an active 512-to-1 switching matrix,
 * a passive probe card to contact the sensor.
+
 It has been use to characterise large area silicon pad sensors for the CMS (HGCAL) and FCAL (LumiCal) collaborations.
 
 All design files are open source:
