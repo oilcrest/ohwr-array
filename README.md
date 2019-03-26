@@ -1,4 +1,11 @@
-# Switching Matrix
+# Overview
+
+ARRAY is a system for silicon sensor testing. It consisting of two Printed Circuit Boards:
+* an active 512-to-1 switching matrix,
+* a passive probe card to contact the sensor.
+
+
+
 
 ## Hardware
 
