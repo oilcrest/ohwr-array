@@ -27,6 +27,7 @@ For CMS specific documentation, please refer to the [CMS Twiki](https://twiki.ce
 ## Images
 
 ![conectivity](./doc/img/channels.png){:width="50%"}
+<img src="https://ohwr.org/project/array/array/raw/master/doc/img/channels.png" width="400">
 ![conectivity](https://ohwr.org/project/array/array/raw/master/doc/img/channels.png)
 
 Switching matrix
