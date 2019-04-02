@@ -26,19 +26,16 @@ For CMS specific documentation, please refer to the [CMS Twiki](https://twiki.ce
 
 ## Images
 
-![conectivity](./doc/img/channels.png){:width="50%"}
-<img src="https://ohwr.org/project/array/array/raw/master/doc/img/channels.png" width="400">
-![conectivity](https://ohwr.org/project/array/array/raw/master/doc/img/channels.png)
+Channel Layout
 
-Switching matrix
+<img src="https://ohwr.org/project/array/array/raw/master/doc/img/channels.png" width="80%">
 
-![SwitchingMatrix](https://ohwr.org/project/array/array/blob/master/doc/img/DSCN6066.jpg)
+Top and bottom View of the assembled system
 
-Probe card
+<img src="https://ohwr.org/project/array/array/raw/master/doc/img/DSCN6066.jpg" width="45%">
+<img src="https://ohwr.org/project/array/array/raw/master/doc/img/DSCN6066.jpg" width="45%">
 
-![ProbeCard](https://ohwr.org/project/array/array/blob/master/doc/img/DSCN6095.jpg)
 
-Circuit
 
-![Circuit](https://ohwr.org/project/array/array/blob/master/doc/circuit.pdf)
+
 
