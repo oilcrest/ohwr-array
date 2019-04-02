@@ -17,8 +17,8 @@ For CMS specific documentation, please refer to the [CMS Twiki](https://twiki.ce
 ## Hardware
 
 * Switch card design can be found [here](https://ohwr.org/project/array/array-hardware/Switching_Matrix)
-  - [schematic](https://ohwr.org/project/array/array-hardware/blob/master/Probe_Card/Schematics/EDA-03517-V2-0_sch.pdf)
-  - [layout](https://ohwr.org/project/array/array-hardware/blob/master/Probe_Card/PCB_Layout/EDA-03517-V2-0_pcb.pdf)
+  - [schematic](https://ohwr.org/project/array/array-hardware/blob/master/Switching_Matrix/Schematics/EDA-03518-V3-0_sch.pdf)
+  - [layout](https://ohwr.org/project/array/array-hardware/blob/master/Switching_Matrix/PCB_Layout/EDA-03518-V3-0_pcb.pdf)
 * Probe card design can be found [here](https://ohwr.org/project/array/array-hardware/Probe_Card)
   - [schematic](https://ohwr.org/project/array/array-hardware/blob/master/Probe_Card/Schematics/EDA-03517-V2-0_sch.pdf)
   - [layout](https://ohwr.org/project/array/array-hardware/blob/master/Probe_Card/PCB_Layout/EDA-03517-V2-0_pcb.pdf)
@@ -26,17 +26,17 @@ For CMS specific documentation, please refer to the [CMS Twiki](https://twiki.ce
 
 ## Images
 
-![conectivity](https://ohwr.org/project/array/array/doc/img/channels.png)
+![conectivity](https://ohwr.org/project/array/array/blob/master/doc/img/channels.png)
 
 Switching matrix
 
-![SwitchingMatrix](https://ohwr.org/project/array/array/doc/img/DSCN6066.jpg)
+![SwitchingMatrix](https://ohwr.org/project/array/array/blob/master/doc/img/DSCN6066.jpg)
 
 Probe card
 
-![ProbeCard](https://ohwr.org/project/array/array/doc/img/DSCN6095.jpg)
+![ProbeCard](https://ohwr.org/project/array/array/blob/master/doc/img/DSCN6095.jpg)
 
 Circuit
 
-![Circuit](https://ohwr.org/project/array/array/doc/icircuit.pdf)
+![Circuit](https://ohwr.org/project/array/array/blob/master/doc/circuit.pdf)
 
