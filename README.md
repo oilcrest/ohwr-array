@@ -33,7 +33,7 @@ Channel Layout
 Top and bottom View of the assembled system
 
 <img src="https://ohwr.org/project/array/array/raw/master/doc/img/DSCN6066.jpg" width="42%">
-<img src="https://ohwr.org/project/array/array/raw/master/doc/img/DSCN6095.jpg" width="48.4%">
+<img src="https://ohwr.org/project/array/array/raw/master/doc/img/DSCN6095.jpg" width="48.5%">
 
 
 
