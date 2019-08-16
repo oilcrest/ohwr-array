@@ -16,10 +16,10 @@ For CMS specific documentation, please refer to the [CMS Twiki](https://twiki.ce
 
 ## Hardware
 
-* Switch card design can be found [here](https://ohwr.org/project/array/array-hardware/Switching_Matrix)
+* Switch card design can be found [here](https://ohwr.org/project/array/array-hardware/blob/master/Switching_Matrix)
   - [schematic](https://ohwr.org/project/array/array-hardware/blob/master/Switching_Matrix/Schematics/EDA-03518-V3-0_sch.pdf)
   - [layout](https://ohwr.org/project/array/array-hardware/blob/master/Switching_Matrix/PCB_Layout/EDA-03518-V3-0_pcb.pdf)
-* Probe card design can be found [here](https://ohwr.org/project/array/array-hardware/Probe_Card)
+* Probe card design can be found [here](https://ohwr.org/project/array/array-hardware/blob/master/Probe_Card)
   - [schematic](https://ohwr.org/project/array/array-hardware/blob/master/Probe_Card/Schematics/EDA-03517-V2-0_sch.pdf)
   - [layout](https://ohwr.org/project/array/array-hardware/blob/master/Probe_Card/PCB_Layout/EDA-03517-V2-0_pcb.pdf)
 
